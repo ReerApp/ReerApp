@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="ReerApp - Discover and connect with your Somali heritage, clan, and identity.">
+    <title>ReerApp - Clan Connection</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to ReerApp</h1>
+        <p>Your heritage, your clan, your identity.</p>
+        <a href="#explore" class="cta-button">Explore Now</a>
+    </header>
+
+    <section id="explore">
+        <h2>Discover Your Clan</h2>
+        <p>Learn more about your roots, heritage, and history.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 ReerApp. All rights reserved.</p>
+    </footer>
+</body>
+</html>
